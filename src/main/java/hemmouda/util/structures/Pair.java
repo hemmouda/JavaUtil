@@ -1,7 +1,7 @@
 package hemmouda.util.structures;
 
 /**
- * Holds a public accessible pair
+ * Holds a publicly accessible pair
  * of objects
  */
 public class Pair <F, S> {
