@@ -9,15 +9,15 @@ public class Pair <F, S> {
     /**
      * The first object
      */
-    public F f;
+    public F first;
     /**
      * The second object
      */
-    public S s;
+    public S second;
 
     public Pair (F first, S second) {
-        this.f = first;
-        this.s = second;
+        this.first = first;
+        this.second = second;
     }
 
     public Pair () {
