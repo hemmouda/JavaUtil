@@ -20,4 +20,8 @@ public class Pair <F, S> {
         this.s = second;
     }
 
+    public Pair () {
+        this(null, null);
+    }
+
 }
