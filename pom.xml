@@ -6,7 +6,7 @@
     
     <groupId>telos-matter</groupId>
     <artifactId>java-util</artifactId>
-    <version>0.1</version>
+    <version>0</version>
     <packaging>jar</packaging>
 
     <name>Java utilities</name>  
