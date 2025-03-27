@@ -1,4 +1,4 @@
-package hemmouda.util.structures;
+package com.hemmouda.java_util.structs;
 
 /**
  * Holds a publicly accessible pair
