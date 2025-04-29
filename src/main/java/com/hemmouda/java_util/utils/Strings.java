@@ -10,9 +10,7 @@ public class Strings {
      * <code>null</code> if <code>s</code> is <code>null</code>.
      */
     public static String capitalize (String s) {
-        if (s == null) {
-            return null;
-        } else if (s.isEmpty()) {
+        if (s == null || s.isEmpty()) {
             return s;
         }
 
